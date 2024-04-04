@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E6XbeBv6FXhGKDwDkFLMmdujdupl0NZsgM44e8uzYgI=",
+  "Source": "back-jwt",
+  "BasePath": "_content/back-jwt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

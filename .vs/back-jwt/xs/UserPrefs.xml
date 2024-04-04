@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{217B6367-AF10-4987-AE03-530C14CE653F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="back-jwt/Controllers/LoginController.cs">
+    <Files>
+      <File FileName="back-jwt/Controllers/ProductController.cs" Line="19" Column="1" />
+      <File FileName="back-jwt/Controllers/EmployeeController.cs" Line="1" Column="1" />
+      <File FileName="back-jwt/Constants/UserConstants.cs" Line="1" Column="1" />
+      <File FileName="back-jwt/Controllers/LoginController.cs" Line="36" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="back-jwt" expanded="True">
+            <Node name="back-jwt" expanded="True">
+              <Node name="Constants" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="LoginController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.back-jwt PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
